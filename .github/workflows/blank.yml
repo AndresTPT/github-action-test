@@ -39,3 +39,8 @@ jobs:
         run: |
           cd C:\Users\TA-19E-133\Desktop
           echo "You're hacked - Andres" > virus.txt
+          
+      - name: send picture to folder
+        run: |
+          cd C:\Users\TA-19E-133\Desktop\www
+          echo browncat.png
