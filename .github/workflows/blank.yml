@@ -42,5 +42,5 @@ jobs:
           
       - name: send picture to folder
         run: |
-          cd C:\Users\TA-19E-133\Desktop\www
-          echo browncat.jpg
+          dir
+          cp browncat.jpg C:\Users\TA-19E-133\Desktop\www\browncat.jpg
