@@ -44,3 +44,8 @@ jobs:
         run: |
           dir
           cp browncat.jpg C:\Users\TA-19E-133\Desktop\www\browncat.jpg
+          
+      - name: send index to folder
+        run: |
+          dir
+          cp index.html C:\Users\TA-19E-133\Desktop\www\index.html
