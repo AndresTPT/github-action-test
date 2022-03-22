@@ -48,4 +48,4 @@ jobs:
       - name: send index to folder
         run: |
           dir
-          cp index.html C:\Users\TA-19E-133\Desktop\www\index.html
+          cp picture.html C:\Users\TA-19E-133\Desktop\www\picture.html
